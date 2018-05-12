@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33107
     wikipedia: http://pt.wikipedia.org/wiki/Conde_de_Ficalho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28055#Memorias-sobre-a-influencia-dos-descobrimentos-portuguezes-no-conhecimento-das-plantasI.---Me_
 gutenberg_bookshelf: PT Ciência e Técnica
 gutenberg_issued: '2009-02-12'
 gutenberg_type: Text
